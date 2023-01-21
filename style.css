@@ -1,0 +1,16 @@
+h1 {
+  color: blue;
+  font-size: 50px;
+}
+
+p {
+  font-size: 20px;
+  color: white;
+  background-color: #000000;
+}
+
+#mandible {
+  color: red;
+  font-size: 25:px;
+  background-color: yellow;
+}
